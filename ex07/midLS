@@ -1,0 +1,1 @@
+ls -pU | grep -vE "^\..*" | paste -d ',' -s -
