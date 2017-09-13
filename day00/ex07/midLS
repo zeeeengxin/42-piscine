@@ -1,1 +1,2 @@
 ls -pU | grep -vE "^\..*" | paste -d ',' -s -
+//KO probably because no space after comma
