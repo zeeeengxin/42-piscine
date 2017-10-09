@@ -1,5 +1,10 @@
 # 42-piscine
 
+From a person who knew nothing about programming, a person who didn't know how to even open folders in terminal, to a C language beginner who can wrote loops and recursions, can solve sudoku and wrote even bigger projects, I truly learned a lot during the piscine and enjoyed coding with new friends. Great great experience with happiness and sadness, anger, and comfort. I'll always remember the 4 weeks full of coding.
+
+### Exercises ###
+The videos provided by 42 really sucked... Got misled a lot by the videos especially for people like me who knew nothing about computer programming before the piscine. I finished some of the exercises that I didn't finish during the piscine and reviewed these exerices while reading a C language book.
+
 ### 42 University @Silicon Valley ###
 "42 Silicon Valley is an innovative engineering college in the San Francisco Bay Area, a non-profit organization (NPO) based in California.
 
