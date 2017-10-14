@@ -21,7 +21,9 @@ char	*ft_strrev(char *str)
 	while (str[count] != '\0')
 	{
 		count = count + 1;
-	}
+	} 
+	// after the above code, str[count] == '\0'
+	// that's why it's wrong
 	while (count > i)
 	{
 		c = str[i];
